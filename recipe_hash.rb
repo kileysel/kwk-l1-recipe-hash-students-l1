@@ -27,8 +27,7 @@ ingredients = {
 
 #2. Write a method that simply returns (not puts) your perfect_10 hash
 def recipe_ingredients(perfect_10_recipe)
-  ingredients.keys 
-  ingredients.value
+  return perfect_10_recipe
 end
 
 #2: Write code that returns the amount of chocolate chips from perfect_10 ingredients that is needed in the recipe.
